@@ -1,0 +1,28 @@
+
+.container {
+    width: 65%;
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn.btn-primary{
+    background: transparent;
+    border: transparent;
+}
+.button-quote , .button-quote:hover{
+    background-color: #e04f5f !important;
+    border-color: #e04f5f !important;
+    color: #ffffff;
+
+}
+.card{
+    background: #999 !important;
+    color:#ffffff;
+}
+img{
+    width: 5rem;
+}
+a:hover{
+    border: transparent;
+}
